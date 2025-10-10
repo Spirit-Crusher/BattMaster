@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "661cba02-8aeb-4b50-bd29-f76717860137")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 185.42 16.51)
+		(size 93.98 55.88)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f3c0ddf5-767a-44e9-a645-a8b586e62f31")
+		(property "Sheetname" "Cell balancing"
+			(at 185.42 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CellBalancing.kicad_sch"
+			(at 185.42 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BattMaster"
+				(path "/661cba02-8aeb-4b50-bd29-f76717860137"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
